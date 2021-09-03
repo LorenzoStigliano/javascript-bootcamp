@@ -1,0 +1,42 @@
+.btn-group{
+  display: grid;
+    /* justify-content: space-between; */
+  grid-template-columns: repeat(4, 1fr);
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+  height: 500px;
+  width: 500px;
+}
+
+.container-button{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  font-family: "Quicksand";
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  font-family: "Quicksand";
+  transition: all 0.2s ease-in-out;
+}
+
+.glow:hover {
+  box-shadow: 0 5px 15px grey;
+}
+
+.your-song{
+  font-family: "Quicksand";
+  display: flex;
+  justify-content: center;
+}
+
+p{
+  font-family: "Quicksand";
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}

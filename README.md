@@ -9,4 +9,4 @@
 | 5 | HTML/CSS|
 | 6 | Intro to DOM & Events|
 | 7 | Fetch & 3rd Party API| 
-| Game |Bigger projects| 
+| Games |Bigger projects| 
